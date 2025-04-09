@@ -73,4 +73,4 @@ A simple student course management system built using **Spring Boot, Java, and M
 | PUT    | `/students/{id}` | Update student details |
 | DELETE | `/students/{id}` | Delete a student |
 
-edited
+master
